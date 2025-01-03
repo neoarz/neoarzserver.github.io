@@ -58,7 +58,7 @@
     },
     {
       "name": "neoarz",   
-      "address": "https://neos-anisette-server.onrender.com"
+      "address": "https://neoarz.fly.dev"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
